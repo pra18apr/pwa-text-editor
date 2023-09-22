@@ -74,6 +74,10 @@ registerRoute(
 
 This code is using workbox for assest caching so the program can work without a internet connection.
 
+## Screenshot
+
+![image](https://github.com/pra18apr/pwa-text-editor/assets/130611291/79b0a007-4a20-4bc5-a086-5bb402ebc228)
+
 
 ## Usage 
 To use the social network API, you must first acquire it through GitHub, see above how to do this. After you open it in VS Code, you may then use your computer's terminal or the terminal in VS Code. Make sure you are inside this repository in the terminal, and run `npm run install` and then `npm run start` or use the deployed Heroku link. You can then begin typing your notes or code snippets. You may also click the install button to download this program to your desktop and it may be used while offline as well.
